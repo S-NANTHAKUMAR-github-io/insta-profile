@@ -9,7 +9,7 @@ const { Content, Footer } = Layout;
 
 const App = () => {
   const {
-    token: { colorBgContainer, borderRadiusLG },
+    token: { colorBgContainer, borderRadiusLG },  
   } = theme.useToken();
 
   return (
