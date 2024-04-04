@@ -30,12 +30,12 @@ The project is structured around a layout skeleton, with individual components d
 
 1. **Clone the Repository**
    ```bash
-   git clone [repository_url]
+   git clone https://github.com/S-NANTHAKUMAR-github-io/insta-profile.git
    ```
 
 2. **Navigate to Project Directory**
    ```bash
-   cd [project_directory]
+   cd insta-profile
    ```
 
 3. **Install Dependencies**
@@ -114,7 +114,7 @@ GitHub is used for version control, allowing for collaboration and tracking chan
 
 3. **Push to GitHub**
    ```bash
-   git remote add origin [repository_url]
+   git remote add origin https://github.com/S-NANTHAKUMAR-github-io/insta-profile.git
    git push -u origin master
    ```
 
