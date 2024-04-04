@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Layout, Typography, Button, Dropdown } from "antd";
+import { Layout, Button, Dropdown } from "antd";
 import { useNavigate } from "react-router-dom";
 import { useLoader } from "../context/LoaderContext";
 import CustomModal from "../HOC/Modal";

@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 import InfiniteScroll from "react-infinite-scroll-component";
-import { Col, Row, Spin, Typography } from "antd";
+import { Col, Row, Spin } from "antd";
 import { CardMedia, Card, CardActionArea } from "@mui/material";
 
 const MainContent = () => {
